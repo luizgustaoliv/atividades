@@ -1,1 +1,1 @@
-# atividades
+# atividades de programação
