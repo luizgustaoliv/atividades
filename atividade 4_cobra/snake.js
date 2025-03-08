@@ -2,7 +2,7 @@ const config = {
     type: Phaser.AUTO,
     width: 800,
     height: 600,
-    backgroundColor: '#666',
+    backgroundColor: '#100c08', // cor marrom
     scene: {
         preload: preload,
         create: create,
